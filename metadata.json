@@ -1,0 +1,6 @@
+{
+  "name": "NestFind AI - Real Estate Matchmaker",
+  "description": "An expert, friendly, and consultative real estate property matchmaker assistant discovering lifestyle needs and guiding buyers and renters to ideal homes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
